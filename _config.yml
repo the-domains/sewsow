@@ -1,0 +1,14 @@
+layout_spectrum: 0.574617835925892
+typography_spectrum: 0.42692281352356076
+color:
+  brandStrength: 0.3526097165886313
+  lightness: 0.4972108758520335
+  saturation: 0.7507827589288354
+  rhythmicContrast: 0.6677055805921555
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+name: sew/sow
